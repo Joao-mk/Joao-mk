@@ -18,24 +18,24 @@ Me chamo João Mateus Krug, tenho 20 anos e sou do Rio Grande do Sul.Sou formado
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="PSQL"
+    alt="VScode" 
+    title="VScode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"         
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="PSQL"
+    alt="Arduino" 
+    title="Arduino"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"         
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="PSQL"
+    alt="C++" 
+    title="C++"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"         
@@ -51,7 +51,7 @@ Me chamo João Mateus Krug, tenho 20 anos e sou do Rio Grande do Sul.Sou formado
 <img 
     align="left" 
     alt="SQL" 
-    title="PSQL"
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"         
