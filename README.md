@@ -56,7 +56,14 @@ Me chamo João Mateus Krug, tenho 20 anos e sou do Rio Grande do Sul.Sou formado
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"         
 />
-
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="IconePowerBi.svg" 
+/>
 <br/>
 <br/>
 
