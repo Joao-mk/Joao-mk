@@ -2,7 +2,8 @@
 
 **`Analista de dados`** **`Automação`**
 
-Me chamo João Mateus Krug, tenho 20 anos e sou do Rio Grande do Sul.Sou formado como Técnico em IoT pelo SENAI e atualmente curso Banco de Dados na UNIASSELVI. Sou entusiasta de tecnologia e conectividade, com interesse em tratamento e análise de dados e em como essas informações impactam diretamente os processos e a tomada de decisão.
+Me chamo João. Sou técnico em IoT pelo SENAI e atualmente curso Banco de Dados.
+- Tecnologia, - conectividade, - análise de dados, - metodo, - organização.
 
 ---
 
