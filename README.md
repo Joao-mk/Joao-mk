@@ -3,7 +3,7 @@
 **`Analista de dados`** **`Automação`**
 
 Me chamo João. Sou técnico em IoT pelo SENAI e atualmente curso Banco de Dados.
-- Tecnologia, - conectividade, - análise de dados, - metodo, - organização.
+- Tecnologia, - conectividade, - análise de dados, - método, - organização.
 
 ---
 
