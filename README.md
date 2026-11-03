@@ -4,7 +4,7 @@
 
 Me chamo João. Sou técnico em IoT pelo SENAI e atualmente curso Banco de Dados.
 - Tecnologia, - conectividade, - análise de dados, - método, - organização.
-
+https://portfolio-joaokrug.netlify.app/
 ---
 
 ### 🐬🕹️ Linguagens e Tecnologias
